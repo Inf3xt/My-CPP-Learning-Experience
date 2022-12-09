@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e781472699150ea1",
+        "id": "ca54652225932b59",
         "type": "tabs",
         "children": [
           {
-            "id": "43933cf98298c730",
+            "id": "a5330a5f2062238c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Variables.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Variables.md"
+              }
             }
           },
           {
@@ -136,9 +144,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "43933cf98298c730",
+  "active": "a5330a5f2062238c",
   "lastOpenFiles": [
+    "Basic Syntax.md",
+    "Input.md",
+    "Variables.md",
+    "[.md",
     "README.md",
-    "Basic Syntax.md"
+    "Basic.md",
+    "Basic-Syntax.md",
+    "basic-syntax.md"
   ]
 }

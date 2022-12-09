@@ -1,4 +1,5 @@
-The absolute basic syntax for making any C++ program.
+# Basic Syntax in C++
+The absolute basic syntax (to my knowledge) for making any C++ program.
 
 ```cpp
 #include <iostream>
