@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-int main(int argc, char** argv) {
+int main(int argc, char* argv[]) {
     std::string username;
     std::string password;
     std::cout << "Enter username: ";
