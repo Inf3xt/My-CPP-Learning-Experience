@@ -19,7 +19,8 @@ using namespace std;
 
 int main(int argc, char* argv[]) {
 	cout << "Basic Syntax V2" << endl;
-	return 0; 
+	return 0;
+} 
 ```
 
 ### Sidenote
