@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variables.md",
+                "file": "Basic Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variables.md",
+                "file": "Basic Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variables.md",
+                "file": "Basic Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Variables.md"
+                "file": "Basic Syntax.md"
               }
             }
           },
@@ -146,9 +146,9 @@
   },
   "active": "a5330a5f2062238c",
   "lastOpenFiles": [
+    "Variables.md",
     "Basic Syntax.md",
     "Input.md",
-    "Variables.md",
     "[.md",
     "README.md",
     "Basic.md",
